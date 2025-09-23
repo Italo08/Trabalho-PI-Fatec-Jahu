@@ -69,7 +69,7 @@ O sistema deve permitir cadastro de novos usuários
 RF02- LOGIN DE USUÁRIOS
 o sistema deve conter uma aba para os usuários que já estiverem cadastrados para que possam efetuar  login.
 
-RF03 - ACESSIBILIDADE 
+RF03- ACESSIBILIDADE 
 Todo o site deve conter o sistema de acessibilidade desde o login até a navegação do site.
 ---
 
