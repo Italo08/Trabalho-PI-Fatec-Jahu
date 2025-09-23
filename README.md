@@ -42,8 +42,33 @@ promove a valorização do movimento combatendo o preconceito e contribuindo ass
 
 O que visamos alcançar com este projeto? 
 
-- Objetivo principal
-- Objetivos específicos
+##### - Objetivo principal
+  
+    Desenvolver um site institucional para a AMAI, integrado à prefeitura da cidade, que possibilite o cadastro e getenciamento
+    de informações de pessoas com deficiência (PCDs), funcionando commo um banco de dados confiável para auxiliar no planejamento,
+    acompanhamento e oferta de serviços de inclusão social.
+
+  
+##### - Objetivos específicos
+
+
+    1.	Criar um portal informativo que apresente a AMAI, sua missão, visão, valores e projetos.
+
+    2.	Desenvolver um sistema de cadastro online para pessoas PCDs, com armazenamento seguro dos dados.
+  
+    3.	Permitir que a prefeitura e a AMAI tenham acesso aos dados para fins de acompanhamento, inclusão em programas sociais
+    e políticas públicas.
+  
+    5.	Disponibilizar relatórios gerenciais para análise dos perfis cadastrados.
+  
+    6.	Implementar recursos de acessibilidade digital (contraste, fontes ampliadas, leitores de tela, textos alternativos).
+  
+    7.	Facilitar a comunicação entre PCDs, familiares, AMAI e prefeitura por meio de formulários de contato e integração com redes
+    sociais.
+  
+    9.	Criar uma área destinada a campanhas, eventos e notícias relevantes para a comunidade.
+  
+    10.	Estimular a participação social, oferecendo opções de doações e voluntariado diretamente no site.
 
 ---
 
