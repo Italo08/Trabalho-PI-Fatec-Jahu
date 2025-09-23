@@ -63,14 +63,32 @@ Responda à pergunta: *Como? Com o quê? Onde? Quando?*
 
 ### • Requisitos Funcionais
 
-RF01- CADASTRO USUÁRIOS
-O sistema deve permitir cadastro de novos usuários 
+#### RF01- Exibir informações da instituição
+O site deve apresentar a missão, visão e valores e a historia da AMAI Jau.
 
-RF02- LOGIN DE USUÁRIOS
-o sistema deve conter uma aba para os usuários que já estiverem cadastrados para que possam efetuar  login.
+#### RF02- Divulgar projetos e serviços
+O site deve disponibilizar informações sobre os programas, atividades e ações sociais já realizadas pela AMAI
 
-RF03- ACESSIBILIDADE 
+#### RF03- Contatos
+O site deve ter algum tipo de formulario para contato.
+O site deve deixar disponivel telefones, e-mails e endereço do local.
+
+#### RF04- Notícias e Eventos.
+O site deve permitir a publicação de novidades, campanhas e eventos futuros
+
+#### RF05- Doações e apoio.
+O site deve conter uma aba propria para a possibilidade de doações e apoio da população
+
+#### RF06- Cadastro de usuários.
+O sistema deve permitir cadastro de novos usuários
+
+#### RF07- Login de usuários.
+O sistema deve conter uma aba para os usuários que já estiverem cadastrados para que possam efetuar login.
+
+#### RF08- Navegação com acessibilidade  
 Todo o site deve conter o sistema de acessibilidade desde o login até a navegação do site.
+
+#### RF09- 
 ---
 
 ### • Requisitos Não Funcionais
