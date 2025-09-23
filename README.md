@@ -31,13 +31,16 @@ Esta documentação descreve o andamento do PI (Projeto Integrador) da faculdade
 
 ### Contextualização & Justificativa
 
-Aqui, você pode adicionar o **porquê** do projeto, o que motivou a escolha do tema, e qual é a **importância** desse desenvolvimento.
+AMAI Jau ( Associação e movimento de assistencia ao indivíduo deficiente ) uma entidade sem fins lucrativos criada por PCDs que se reuniram com o objetivo de fundarem uma entidade de prestação de serviços e
+atendimento a deficientes físicos, auditivos, visuais e múltiplos. Escolhemos a AMAI porque acreditamos na importancia da inclusão social e no impacto positivo que iniciativas voltadadas às pessoas com deficiência
+geram na comunidade. O que nos motivou foi perceber como o trabalho da AMAI vai além do atendimento básico, oferecendo acolhimento, dignidade e oportunidades de desenvolvimento. Esse movimento é fundamental porque
+promove a valorização do movimento combatendo o preconceito e contribuindo assim para uma sociedade mais unida.
 
 ---
 
 ### • Objetivos
 
-Defina os principais objetivos do PI. O que o projeto visa alcançar? 
+O que o projeto visamos alcançar com este projeto? 
 
 - Objetivo principal
 - Objetivos específicos
@@ -60,13 +63,14 @@ Responda à pergunta: *Como? Com o quê? Onde? Quando?*
 
 ### • Requisitos Funcionais
 
-Liste as **funcionalidades** que o sistema deve atender.
+RF01- CADASTRO USUÁRIOS
+O sistema deve permitir cadastro de novos usuários 
 
-Exemplo:
+RF02- LOGIN DE USUÁRIOS
+o sistema deve conter uma aba para os usuários que já estiverem cadastrados para que possam efetuar  login.
 
-- O sistema deve permitir cadastro de usuários.
-- O sistema deve gerar relatórios de vendas.
-
+RF03 - ACESSIBILIDADE 
+Todo o site deve conter o sistema de acessibilidade desde o login até a navegação do site.
 ---
 
 ### • Requisitos Não Funcionais
