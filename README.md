@@ -40,7 +40,7 @@ promove a valorização do movimento combatendo o preconceito e contribuindo ass
 
 ### • Objetivos
 
-O que o projeto visamos alcançar com este projeto? 
+O que visamos alcançar com este projeto? 
 
 - Objetivo principal
 - Objetivos específicos
