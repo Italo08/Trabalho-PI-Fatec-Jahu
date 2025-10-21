@@ -111,7 +111,7 @@ O sistema deve permitir cadastro de novos usuários
 O sistema deve conter uma aba para os usuários que já estiverem cadastrados para que possam efetuar login.
 
 #### RF08- Navegação com acessibilidade  
-Todo o site deve conter o sistema de acessibilidade desde o login até a navegação do site.
+Todo o site deve conter o sistema de acessibilidade desde o login até a finalização do cadastro do usuário no site.
 
 #### RF09- 
 ---
@@ -137,12 +137,9 @@ Liste os **requisitos de qualidade** que o sistema deve ter, como:
 
 ## 3. 📊 Modelo de Casos de Uso
 
-Inclua os principais casos de uso que o sistema deve oferecer. Isso pode ser feito de forma textual ou com diagramas.
-
-Exemplo de casos de uso:
-
-- Cadastro de usuário
-- Login no sistema
+    - Cadastro de usuários
+    - Login no sistema
+    - Conhecer mais sobre a organização.
 
 ---
 
@@ -172,22 +169,84 @@ Caso não tenha, você pode incluir uma descrição das principais classes envol
 
 ## 7. 🔍 Estudo de Viabilidade
 
-Realize uma análise sobre a **viabilidade** técnica, financeira e de prazo para a execução do projeto. Como será o impacto do projeto e sua sustentabilidade?
+### •	Viabilidade técnica: 
 
----
+    • Tecnologias necessárias:
+      Desenvolvimento web (frontend e backend)
+      Talvez algum uso de framework.
+
+    • Banco de dados para armazenar informações dos usuários. 
+
+    • Integração com sistemas da prefeitura se possível.
+
+    • Infraestrutura: 
+      Hospedagem do site, segurança de dados, talvez algum meio de backup e manutenção para o banco de dados.
+
+### •	Viabilidade Financeira:
+
+    • Hospedagem do site: 
+      Caso o site não seja hospedado direto no site da prefeitura, teremos que ver a respeito de meios para
+      serem hospedados (média de 100 a 200 por ano)
+
+### •	Viabilidade de Mercado:
+
+    • Cliente:
+      No caso do nosso sistema já e uma demanda pedida por um cliente, para uso de cadastros de pessoas com deficiência
+      no sistema da prefeitura.
+
+    • Mercado:
+      Talvez no futuro depois que de ver que funcionou o sistema como pedido e tenha tido sucesso, podemos ver a
+      possibilidade de vender para outras cidades.
+
+### •	Viabilidade Operacional:
+    O projeto apresenta uma boa viabilidade operacional, pois o sistema vai ser de fácil utilização e poderá ser operado
+    pelos próprios coordenadores da Secretaria de assistência e desenvolvimento social. E o sistema poderá ser acessado
+    por qualquer dispositivo para que conheçam a história da parceira (AMAI) e uma aba para que realizem   seu cadastro
+    com todas as principais informações para que a prefeitura tenha uma base de total de pessoas com deficiência tem na
+    cidade e quantas precisam de algum auxílio profissional.
 
 ## 8. 💼 Regras de Negócio (Modelo Canvas)
 
-Inclua o modelo **Canvas** que define as regras de negócios e a estrutura do projeto:
+ ### Proposta de Valor
+    • Facilitar o cadastro, organização e consulta de informações de pessoas com deficiência (PCDs),
+      promovendo uma melhor comunicação e integração entre a AMAI e a prefeitura, além de otimizar o
+      acesso a dados para políticas públicas e programas sociais.
 
-- **Proposta de valor**
-- **Segmentos de clientes**
-- **Canais de distribuição**
-- **Fontes de receita**
-- **Atividades chave**
-- **Recursos chave**
-- **Parcerias chave**
-- **Estrutura de custos**
+### Segmentos de Clientes
+	•	Associação AMAI e seus colaboradores;
+	•	Prefeitura municipal e setores responsáveis por inclusão e assistência social;
+	•	Pessoas PCDs que desejam se cadastrar e participar de programas de apoio.
+
+### Canais de Distribuição
+	•	Website oficial da AMAI, acessível em computadores e dispositivos móveis;
+	•	Divulgação em redes sociais e canais institucionais da AMAI e da prefeitura.
+
+### Fontes de Receita
+	•	Projeto sem fins lucrativos, podendo receber apoio financeiro da prefeitura, doações ou patrocínios de empresas
+        locais para manutenção do sistema.
+
+### Atividades Chave
+	•	Desenvolvimento e manutenção do site;
+	•	Coleta e atualização de dados das pessoas cadastradas;
+	•	Suporte técnico e treinamento dos usuários da AMAI;
+	•	Divulgação do sistema à comunidade.
+
+### Recursos Chave
+	•	Equipe de desenvolvimento web;
+	•	Servidor e hospedagem do site;
+	•	Banco de dados para armazenar informações;
+	•	Computadores e acesso à internet.
+
+### Parcerias Chave
+	•	Prefeitura municipal (apoio técnico e institucional);
+	•	Empresas locais (apoio financeiro ou tecnológico);
+	•	Voluntários e desenvolvedores da comunidade.
+
+### Estrutura de Custos
+	•	Hospedagem e domínio do site;
+	•	Manutenção técnica e suporte;
+	•	Treinamento dos colaboradores da AMAI;
+	•	Custos de divulgação e comunicação
 
 ---
 
