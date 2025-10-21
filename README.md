@@ -89,49 +89,72 @@ Responda à pergunta: *Como? Com o quê? Onde? Quando?*
 ### • Requisitos Funcionais
 
 #### RF01- Exibir informações da instituição
-O site deve apresentar a missão, visão e valores e a historia da AMAI Jau.
+    O site deve apresentar a missão, visão e valores e a historia da AMAI Jau.
 
 #### RF02- Divulgar projetos e serviços
-O site deve disponibilizar informações sobre os programas, atividades e ações sociais já realizadas pela AMAI
+    O site deve disponibilizar informações sobre os programas, atividades e ações sociais já realizadas pela AMAI
 
-#### RF03- Contatos
-O site deve ter algum tipo de formulario para contato.
-O site deve deixar disponivel telefones, e-mails e endereço do local.
+#### RF03- Exibir meiots de Contatos
+    O site deve ter algum tipo de formulario para contato.
+    O site deve deixar disponivel telefones, e-mails e endereço do local.
+  
+#### RF04- Conter notícias e Eventos.
+    O site deve permitir a publicação de novidades, campanhas e eventos futuros
 
-#### RF04- Notícias e Eventos.
-O site deve permitir a publicação de novidades, campanhas e eventos futuros
+#### RF05- Conseguir doações e apoio.
+    O site deve conter uma aba propria para a possibilidade de doações e apoio da população
 
-#### RF05- Doações e apoio.
-O site deve conter uma aba propria para a possibilidade de doações e apoio da população
+#### RF06- Realizar Cadastro de usuários.
+    O sistema deve permitir cadastro de novos usuários
 
-#### RF06- Cadastro de usuários.
-O sistema deve permitir cadastro de novos usuários
+#### RF07- Realizar Login de usuários.
+    O sistema deve conter uma aba para os usuários que já estiverem cadastrados para que possam efetuar login.
 
-#### RF07- Login de usuários.
-O sistema deve conter uma aba para os usuários que já estiverem cadastrados para que possam efetuar login.
-
-#### RF08- Navegação com acessibilidade  
-Todo o site deve conter o sistema de acessibilidade desde o login até a finalização do cadastro do usuário no site.
-
-#### RF09- 
+#### RF08 – Ter painel administrativo
+    O sistema deve conter uma área administrativa para que membros autorizados da AMAI possam gerenciar cadastros,
+	editar conteúdos e publicar novas informações no site.
 ---
 
-### • Requisitos Não Funcionais
+## . ❌ Requisitos Não Funcionais
 
-Liste os **requisitos de qualidade** que o sistema deve ter, como:
+### Requisitos de Produto
+	•	 – Desempenho: O site deve carregar completamente em até 3 segundos em conexões comuns.
+	•	 – Responsividade: O layout deve se adaptar automaticamente a diferentes dispositivos (desktop, tablet e celular).
+	•	 – Acessibilidade: O sistema deve seguir as diretrizes WCAG, garantindo contraste adequado, textos alternativos e
+	       suporte a leitores de tela.
+	•	 – Compatibilidade: O site deve funcionar corretamente nos principais navegadores (Chrome, Firefox, Edge e Safari).
 
-- **Desempenho**: o sistema deve ser capaz de suportar até 1000 requisições simultâneas.
-- **Segurança**: autenticação via OAuth2.
-- **Usabilidade**: design responsivo, fácil de usar.
 
-#### Subcategorias de requisitos não funcionais:
+### Requisitos de Organização
+	•	 – Padronização do Código: O desenvolvimento deve seguir boas práticas de versionamento e organização, utilizando Git e GitHub.
+	•	 – Documentação: O código deve conter comentários explicativos e documentação mínima para manutenção futura.
+	•	 – Manutenção: O sistema deve permitir a inclusão de novos módulos sem reestruturação completa.
 
-- **Requisitos de produto**
-- **Requisitos de organização**
-- **Requisitos de confiabilidade**
-- **Requisitos de implementação**
-- **Requisitos de padrões**
-- **Requisitos de interoperabilidade**
+
+### Requisitos de Confiabilidade
+	•	 – Disponibilidade: O sistema deve estar disponível 24h por dia, exceto em períodos de manutenção.
+	•	 – Backup: Os dados armazenados devem possuir cópias de segurança periódicas.
+	•	 – Integridade dos Dados: As informações inseridas pelos usuários devem ser validadas e protegidas
+	       contra inconsistências.
+			 
+
+### Requisitos de Implementação
+	•	 – Tecnologias Utilizadas: HTML5, CSS3, JavaScript e banco de dados relacional (MySQL ou Firebase).
+	•	 – Frameworks e Ferramentas: Podem ser utilizados frameworks como Bootstrap e bibliotecas de acessibilidade.
+	•	 – Controle de Versão: O projeto deve ser versionado com Git e armazenado em repositório público no GitHub.
+
+
+### Requisitos de Padrões
+	•	 – Usabilidade: O design deve ser simples, intuitivo e seguir boas práticas de UX/UI.
+	•	 – Identidade Visual: O site deve manter as cores e o logotipo oficiais da AMAI.
+	•	 – Linguagem: Os textos devem ser claros, acessíveis e adequados ao público da instituição.
+
+
+### Requisitos de Interoperabilidade
+	•	 – Integração: O sistema deve permitir integração futura com bancos de dados ou sistemas da prefeitura.
+	•	 – Formatos de Dados: O sistema deve exportar e importar dados em formatos padrão, como CSV ou JSON.
+	•	 – APIs: Caso sejam criadas APIs, elas devem seguir o padrão REST, facilitando expansões e integração com
+	       outros sistemas.
 
 ---
 
@@ -199,11 +222,11 @@ Caso não tenha, você pode incluir uma descrição das principais classes envol
       possibilidade de vender para outras cidades.
 
 ### •	Viabilidade Operacional:
-    O projeto apresenta uma boa viabilidade operacional, pois o sistema vai ser de fácil utilização e poderá ser operado
-    pelos próprios coordenadores da Secretaria de assistência e desenvolvimento social. E o sistema poderá ser acessado
-    por qualquer dispositivo para que conheçam a história da parceira (AMAI) e uma aba para que realizem   seu cadastro
-    com todas as principais informações para que a prefeitura tenha uma base de total de pessoas com deficiência tem na
-    cidade e quantas precisam de algum auxílio profissional.
+       O projeto apresenta uma boa viabilidade operacional, pois o sistema vai ser de fácil utilização e poderá ser operado
+       pelos próprios coordenadores da Secretaria de assistência e desenvolvimento social. E o sistema poderá ser acessado
+       por qualquer dispositivo para que conheçam a história da parceira (AMAI) e uma aba para que realizem   seu cadastro
+       com todas as principais informações para que a prefeitura tenha uma base de total de pessoas com deficiência tem na
+       cidade e quantas precisam de algum auxílio profissional.
 
 ## 8. 💼 Regras de Negócio (Modelo Canvas)
 
@@ -214,38 +237,39 @@ Caso não tenha, você pode incluir uma descrição das principais classes envol
 
 ### Segmentos de Clientes
 	•	Associação AMAI e seus colaboradores;
-	•	Prefeitura municipal e setores responsáveis por inclusão e assistência social;
+	•	Prefeitura municipal e setores responsáveis por inclusão e assistência social
 	•	Pessoas PCDs que desejam se cadastrar e participar de programas de apoio.
 
 ### Canais de Distribuição
-	•	Website oficial da AMAI, acessível em computadores e dispositivos móveis;
+	•	Website oficial da AMAI e da prefeitura, acessível em computadores e dispositivos móveis
 	•	Divulgação em redes sociais e canais institucionais da AMAI e da prefeitura.
 
 ### Fontes de Receita
-	•	Projeto sem fins lucrativos, podendo receber apoio financeiro da prefeitura, doações ou patrocínios de empresas
-        locais para manutenção do sistema.
+	•	Projeto sem fins lucrativos, podendo receber apoio financeiro da prefeitura, doações ou patrocínios
+	    de empresas locais para manutenção do sistema.
+	•   Com a possibilidade de venda do website/sistema para outras cidades.
 
 ### Atividades Chave
-	•	Desenvolvimento e manutenção do site;
-	•	Coleta e atualização de dados das pessoas cadastradas;
-	•	Suporte técnico e treinamento dos usuários da AMAI;
+	•	Desenvolvimento e manutenção do site
+	•	Coleta e atualização de dados das pessoas cadastradas
+	•	Suporte técnico e treinamento dos usuários da AMAI
 	•	Divulgação do sistema à comunidade.
 
 ### Recursos Chave
-	•	Equipe de desenvolvimento web;
-	•	Servidor e hospedagem do site;
-	•	Banco de dados para armazenar informações;
+	•	Equipe de desenvolvimento web
+	•	Servidor e hospedagem do site
+	•	Banco de dados para armazenar informações
 	•	Computadores e acesso à internet.
 
 ### Parcerias Chave
-	•	Prefeitura municipal (apoio técnico e institucional);
-	•	Empresas locais (apoio financeiro ou tecnológico);
+	•	Prefeitura municipal (apoio técnico e institucional)
+	•	Empresas locais (apoio financeiro ou tecnológico)
 	•	Voluntários e desenvolvedores da comunidade.
 
 ### Estrutura de Custos
-	•	Hospedagem e domínio do site;
-	•	Manutenção técnica e suporte;
-	•	Treinamento dos colaboradores da AMAI;
+	•	Hospedagem e domínio do site
+	•	Manutenção técnica e suporte
+	•	Treinamento dos colaboradores da AMAI e da assistencia e desenvolvimento social
 	•	Custos de divulgação e comunicação
 
 ---
