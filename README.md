@@ -113,6 +113,7 @@ Responda à pergunta: *Como? Com o quê? Onde? Quando?*
 #### RF08 – Criar painel administrativo
     O sistema deve conter uma área administrativa para que membros autorizados da AMAI possam gerenciar cadastros,
 	editar conteúdos e publicar novas informações no site.
+	
 ---
 
 ## . ❌ Requisitos Não Funcionais
@@ -155,42 +156,9 @@ Responda à pergunta: *Como? Com o quê? Onde? Quando?*
 	•	 – Formatos de Dados: O sistema deve exportar e importar dados em formatos padrão, como CSV ou JSON.
 	•	 – APIs: Caso sejam criadas APIs, elas devem seguir o padrão REST, facilitando expansões e integração com
 	       outros sistemas.
-
 ---
 
-## 3. 📊 Modelo de Casos de Uso
-
-    - Cadastro de usuários
-    - Login no sistema
-    - Conhecer mais sobre a organização.
-
----
-
-## 4. 🗂️ Modelo do Banco de Dados
-
-Descreva os modelos do banco de dados:
-
-- **Modelo Conceitual**: Diagrama ER (Entidade-Relacionamento).
-- **Modelo Lógico**: Estrutura das tabelas e relacionamentos.
-- **Modelo Físico**: Como os dados serão armazenados no banco.
-
----
-
-## 5. 💾 Banco de Dados
-
-Aqui, descreva o banco de dados utilizado, como ele está estruturado, as tabelas e relações que existem, além dos detalhes de implementação.
-
----
-
-## 6. 🧳 Diagrama de Classes
-
-Adicione o **diagrama de classes** do sistema, explicando as entidades e seus relacionamentos. 
-
-Caso não tenha, você pode incluir uma descrição das principais classes envolvidas.
-
----
-
-## 7. 🔍 Estudo de Viabilidade
+## 3. 🔍 Estudo de Viabilidade
 
 ### •	Viabilidade técnica: 
 
@@ -228,7 +196,7 @@ Caso não tenha, você pode incluir uma descrição das principais classes envol
        com todas as principais informações para que a prefeitura tenha uma base de total de pessoas com deficiência tem na
        cidade e quantas precisam de algum auxílio profissional.
 
-## 8. 💼 Regras de Negócio (Modelo Canvas)
+## 4. 💼 Regras de Negócio (Modelo Canvas)
 
  ### Proposta de Valor
     • Facilitar o cadastro, organização e consulta de informações de pessoas com deficiência (PCDs),
@@ -274,7 +242,7 @@ Caso não tenha, você pode incluir uma descrição das principais classes envol
 
 ---
 
-## 9. 🎨 Design
+## 5. 🎨 Design
 
 Aqui, fale sobre os aspectos de design do sistema:
 
@@ -288,7 +256,7 @@ Você pode adicionar imagens, como mockups ou esquemas, para ilustrar.
 
 ---
 
-## 10. 🖥️ Protótipo
+## 6. 🖥️ Protótipo
 
 Inclua o protótipo funcional do sistema, com um link para a ferramenta em que ele foi desenvolvido, como o [Figma](https://www.figma.com/). 
 
@@ -298,7 +266,7 @@ Exemplo:
 
 ---
 
-## 11. 💻 Aplicação
+## 7. 💻 Aplicação
 
 Descreva o estado atual da aplicação. Caso já tenha uma versão inicial funcionando, forneça detalhes:
 
