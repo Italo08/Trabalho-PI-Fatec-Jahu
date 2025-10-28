@@ -94,23 +94,23 @@ Responda à pergunta: *Como? Com o quê? Onde? Quando?*
 #### RF02- Divulgar projetos e serviços
     O site deve disponibilizar informações sobre os programas, atividades e ações sociais já realizadas pela AMAI
 
-#### RF03- Exibir meiots de Contatos
+#### RF03- Exibir meios de Contatos
     O site deve ter algum tipo de formulario para contato.
     O site deve deixar disponivel telefones, e-mails e endereço do local.
   
-#### RF04- Conter notícias e Eventos.
+#### RF04- Exibir notícias e Eventos.
     O site deve permitir a publicação de novidades, campanhas e eventos futuros
 
-#### RF05- Conseguir doações e apoio.
+#### RF05- Permitir doações e apoio de terceiros.
     O site deve conter uma aba propria para a possibilidade de doações e apoio da população
 
-#### RF06- Realizar Cadastro de usuários.
+#### RF06- Permitir Cadastro de usuários.
     O sistema deve permitir cadastro de novos usuários
 
 #### RF07- Realizar Login de usuários.
     O sistema deve conter uma aba para os usuários que já estiverem cadastrados para que possam efetuar login.
 
-#### RF08 – Ter painel administrativo
+#### RF08 – Criar painel administrativo
     O sistema deve conter uma área administrativa para que membros autorizados da AMAI possam gerenciar cadastros,
 	editar conteúdos e publicar novas informações no site.
 ---
