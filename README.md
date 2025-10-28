@@ -116,7 +116,7 @@ Responda à pergunta: *Como? Com o quê? Onde? Quando?*
 	
 ---
 
-## . ❌ Requisitos Não Funcionais
+## . Requisitos Não Funcionais
 
 ### Requisitos de Produto
 	•	 – Desempenho: O site deve carregar completamente em até 3 segundos em conexões comuns.
