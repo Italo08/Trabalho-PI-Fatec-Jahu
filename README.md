@@ -248,7 +248,8 @@ Aqui, fale sobre os aspectos de design do sistema:
 
 - **Paleta de cores**
 - **Tipografia**
-- **Logo**
+- **Logo**![Logo](https://github.com/user-attachments/assets/b249eab7-2dee-4fa8-90ad-6c743f1ccdec)
+
 - **Wireframes**
 - **Modelo de navegação**
 
