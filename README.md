@@ -244,15 +244,22 @@ Responda à pergunta: *Como? Com o quê? Onde? Quando?*
 
 ## 5. 🎨 Design
 
-Aqui, fale sobre os aspectos de design do sistema:
+##  Paleta de Cores
 
-- **Paleta de cores**
-- **Tipografia**
-- **Logo**
-- **Wireframes**
-- **Modelo de navegação**
+- Azul Primário: #2D9CDB
+- Azul Suave: #56CCF2
+- Bege Claro: #F9F7F1
+- Cinza Suave: #E0E0E0
+- Preto Suave: #333333
 
-Você pode adicionar imagens, como mockups ou esquemas, para ilustrar.
+##  Fontes Utilizadas
+- **Títulos:** Montserrat
+- **Textos:** Open Sans
+
+
+
+
+
 
 ---
 
