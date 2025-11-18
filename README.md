@@ -269,7 +269,7 @@ Inclua o protótipo funcional do sistema, com um link para a ferramenta em que e
 
 Exemplo:
 
-- [Acesse o protótipo no Figma](https://www.figma.com/file/12345/prototipo)
+- [Acesse o protótipo no Figma [(https://www.figma.com/design/z9D2OTNK6oeygPPiAoABUh/prototipo-pi?node-id=0-1&t=ykhi3rDlrVCz1PNv-1)](https://www.figma.com/design/z9D2OTNK6oeygPPiAoABUh/prototipo-pi?node-id=0-1&t=ykhi3rDlrVCz1PNv-1)
 
 ---
 
