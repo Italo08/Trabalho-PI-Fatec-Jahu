@@ -253,8 +253,8 @@ Responda à pergunta: *Como? Com o quê? Onde? Quando?*
 - Preto Suave: #333333
 
 ##  Fontes Utilizadas
-- **Títulos:** Montserrat
-- **Textos:** Open Sans
+- **Títulos:** "Nunito", Arial, Helvetica, sans-serif
+- **Textos:** "Nunito", Arial, Helvetica, sans-serif
 
 
 
